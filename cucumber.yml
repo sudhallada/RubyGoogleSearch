@@ -1,0 +1,2 @@
+default: --no-source --color --format pretty --format html --out report_googlesearch.html
+Sanity_First: --no-source --color --format pretty --tags @Sanity
